@@ -1,2 +1,8 @@
-# MNL_readme
-MNL_readme
+# Multimodal Neuroimaging Lab
+
+Welcome to the GitHub repo from the Multimodal Neuroimaging Lab. 
+
+
+
+
+
